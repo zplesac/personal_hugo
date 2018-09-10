@@ -40,4 +40,3 @@ twitter                = "//twitter.com/ZeljkoPlesac"
 gravatar               = "cd706882d1bc0c34a9f4cb51bc98a656" 
 email                  = "zeljko.plesac@infinum.co"
 highlightjs            = true
-extracssfiles          = [ "/css/override.css" ] 

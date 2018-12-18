@@ -4,7 +4,7 @@ slug = "talks"
 +++
 
 
-
+* DevFest Ljubljana 2018
 * [Droidcon Vienna 2018](https://droidcon.at/schedule/#session-111)
 * [SOF Portorož 2018](https://sof.si/trendi-nad-analitiko-custveno-pogojen-razvoj/)
 * [Droidcon San Francisco 2017](https://www.youtube.com/watch?v=nS2_byNLXJc)

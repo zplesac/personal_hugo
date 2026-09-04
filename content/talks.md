@@ -3,7 +3,7 @@ title = "Talks"
 slug = "talks"
 +++
 
-
+* [AI Tech Summit Belgrade 2026](https://aitechsummit-tbm.ai/)
 * DevFest Ljubljana 2018
 * [Droidcon Vienna 2018](https://droidcon.at/schedule/#session-111)
 * [SOF Portorož 2018](https://sof.si/trendi-nad-analitiko-custveno-pogojen-razvoj/)
